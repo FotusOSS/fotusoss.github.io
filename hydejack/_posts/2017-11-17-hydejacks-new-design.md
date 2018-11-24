@@ -43,7 +43,7 @@ Hydejack also has a new logo, which is based on the new color palette.
 It also features the best font on Google Fonts, and probably the world: [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab)
 (which is to say, I like it a lot).
 
-![Hydejack's logo]({{ site.baseurl }}/assets/img/icons/icon.png){:data-width="192" data-height="192"}
+![Hydejack's logo]({{ site.baseurl }}/assets/img/logos/icon.png){:data-width="192" data-height="192"}
 
 
 [^1]: I should mention that these are only default values. Hydejack let's you choose your own. For inspiration, I've recently added [a gallery]({{ site.baseurl }}/projects/) to the site that shows a few variations of the theme.
