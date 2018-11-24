@@ -1,7 +1,7 @@
 {
-  "lang": "cn",
-  "name": "风荷网",
-  "short_name": "风荷网",
+  "lang": "en",
+  "name": "Hydejack",
+  "short_name": "Hydejack",
   "description": "“Best Jekyll Theme by a Mile”. Hydejack is your presence on the web, featuring a blog, portfolio, and resume.",
   "start_url": "/?utm_source=homescreen",
   "theme_color": "rgb(25,55,71)",
