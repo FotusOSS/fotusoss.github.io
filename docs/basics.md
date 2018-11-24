@@ -430,7 +430,7 @@ resume:
   basics:
     name: "Richard Hendricks"
     label: "Programmer"
-    picture: "/assets/icons/icon.png"
+    picture: "/assets/img/icons/icon.png"
   # ...
 ---
 ~~~
