@@ -1,6 +1,6 @@
 ---
 menu: true
-order: 4
+order: 2
 image: /assets/img/products/About_1.jpg
 ---
 

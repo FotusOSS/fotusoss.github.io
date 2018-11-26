@@ -1,15 +1,12 @@
 ---
-layout: about
-menu: true
-order: 2
-image: /assets/img/blog/hydejack-8.png
+title: 星袭
+image: /assets/img/products/MeteorRaid_0.jpg
 ---
-
-# 星袭
-## 游戏简介
 
 > 当流星袭来，像打台球一样将它反弹出去
 {:.lead}
+
+### 游戏简介
 
 ![Screenshot](assets/img/products/MeteorRaid_1.jpg){:.lead srcset="/assets/img/products/MeteorRaid_1.jpg 1920w, /assets/img/products/MeteorRaid_1@0,5x.png 960w, /assets/img/products/MeteorRaid_1@0,25x.png 480w" data-width="1920" data-height="1080"}
 星袭游戏截图
