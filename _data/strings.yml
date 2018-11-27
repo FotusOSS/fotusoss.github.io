@@ -22,8 +22,8 @@ navigation:            Navigation
 social:                Social
 links:                 Links
 pagination:            Pagination
-newer:                 Newer
-older:                 Older
+newer:                 最新
+older:                 早期
 back:                  Back
 permalink:             Permalink
 permalink_icon:        icon-link
@@ -57,7 +57,7 @@ error:
 # ---------------------------------------------------------------------------------------
 colon:                 ':'
 separator:             '|'
-category_start:        'in '
+category_start:        ' '
 category_spearator:    ' / '
 tag_start:             'on '
 tag_separator:         ', '
@@ -67,13 +67,13 @@ from_to_separator:     '–'
 # Date formats
 # ---------------------------------------------------------------------------------------
 date_formats:
-  post:                '%d %b %Y'
-  related_post:        '%d %b %Y'
+  post:                '%Y-%m-%d'
+  related_post:        '%Y-%m-%d'
   list_group_by:       '%Y'
-  list_entry:          '%d %b'
+  list_entry:          '%m-%d'
   project:             '%Y'
   projects_group_by:   '%Y'
-  resume:              '%b %Y'
+  resume:              '%Y-%m'
 
 
 # PRO Version
