@@ -1,96 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>http://localhost:4000/products/</loc>
-<lastmod>2018-12-27T22:25:11+08:00</lastmod>
+  <loc>https://www.fotus.cn/</loc>
+  <lastmod>2018-12-27T14:26:23+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>http://localhost:4000/products/games/2017-09-26-MeteorRaid/</loc>
-<lastmod>2017-09-26T00:00:00+08:00</lastmod>
+  <loc>https://www.fotus.cn/products/</loc>
+  <lastmod>2018-12-27T14:26:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/products/games/2017-12-18-TheAdventuresOfFrog/</loc>
-<lastmod>2017-12-18T00:00:00+08:00</lastmod>
+  <loc>https://www.fotus.cn/about/</loc>
+  <lastmod>2018-12-27T14:26:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/docs/</loc>
+  <loc>https://www.fotus.cn/products/games/2017-12-18-TheAdventuresOfFrog/</loc>
+  <lastmod>2018-12-27T14:26:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/about/</loc>
+  <loc>https://www.fotus.cn/products/games/2017-09-26-MeteorRaid/</loc>
+  <lastmod>2018-12-27T14:26:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
-<url>
-<loc>http://localhost:4000/docs/advanced/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/docs/basics/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/docs/build/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/docs/config/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/forms-by-example/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/docs/install/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/docs/migration/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/posts/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/docs/scripts/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/docs/upgrade/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/docs/writing/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/CHANGELOG/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/LICENSE/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/NOTICE/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/licenses/Apache-2.0/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/licenses/GPL-3.0/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/licenses/MIT/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/licenses/PRO/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/licenses/W3C/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/licenses/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/assets/Resume.pdf</loc>
-<lastmod>2018-08-31T21:35:26+08:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/baidu_verify_QbEN1VUozm.html</loc>
-<lastmod>2018-12-27T21:41:09+08:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/googleab1612278201c715.html</loc>
-<lastmod>2018-12-27T22:24:49+08:00</lastmod>
-</url>
+
+
 </urlset>
