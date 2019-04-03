@@ -1,6 +1,6 @@
 ---
 title: 青蛙历险记
-image: /assets/img/products/FrogJump_0.jpg
+image: /assets/img/products/FrogJump_0.png
 ---
 
 > 在地球、篮球等晃动的单摆上跳跃
