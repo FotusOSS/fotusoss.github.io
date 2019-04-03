@@ -8,7 +8,7 @@ image: /assets/img/products/SwirlCircles_0.png
 
 ### 游戏简介
 
-![Screenshot](assets/img/products/SwirlCircles_1.jpg){:.lead srcset="/assets/img/products/SwirlCircles_1.jpg 900w" data-width="300" data-height="533"}
+![Screenshot](assets/img/products/SwirlCircles_1.jpg){:.lead srcset="/assets/img/products/SwirlCircles_1.jpg 300w" data-width="300" data-height="533"}
 迷魂阵游戏截图
 {:.figure}
 
