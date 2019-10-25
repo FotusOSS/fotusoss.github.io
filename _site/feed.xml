@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="cn"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="cn" /><updated>2019-09-21T21:35:36+08:00</updated><id>http://localhost:4000/</id><title type="html">风荷网</title><subtitle>上海风荷信息技术有限公司官方网站。 包含公司的软件、游戏等产品的发布及更新信息。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="cn"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="cn" /><updated>2019-10-25T22:02:25+08:00</updated><id>http://localhost:4000/</id><title type="html">风荷网</title><subtitle>上海风荷信息技术有限公司官方网站。 包含公司的软件、游戏等产品的发布及更新信息。
 </subtitle><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><entry><title type="html">星袭</title><link href="http://localhost:4000/products/games/2019-09-20-MeteorRaid/" rel="alternate" type="text/html" title="星袭" /><published>2019-09-20T00:00:00+08:00</published><updated>2019-09-20T00:00:00+08:00</updated><id>http://localhost:4000/products/games/MeteorRaid</id><content type="html" xml:base="http://localhost:4000/products/games/2019-09-20-MeteorRaid/">&lt;blockquote class=&quot;lead&quot;&gt;
   &lt;p&gt;别撞到数字零&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h3 id=&quot;游戏简介&quot;&gt;游戏简介&lt;/h3&gt;
 
-&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;assets/img/products/MeteorRaid_1.jpg&quot; alt=&quot;Screenshot&quot; class=&quot;lead&quot; srcset=&quot;/assets/img/products/MeteorRaid_1.jpg 1920w, /assets/img/products/MeteorRaid_1@0,5x.png 960w, /assets/img/products/MeteorRaid_1@0,25x.png 480w&quot; data-width=&quot;1920&quot; data-height=&quot;1080&quot; /&gt;
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/products/games/MeteorRaid/img/MeteorRaid_1.jpg&quot; alt=&quot;Screenshot&quot; class=&quot;lead&quot; srcset=&quot;/assets/products/games/MeteorRaid/img/MeteorRaid_1.jpg 1920w, /assets/products/games/MeteorRaid/img/MeteorRaid_1@0,5x.png 960w, //assets/products/games/MeteorRaid/img/MeteorRaid_1@0,25x.png 480w&quot; data-width=&quot;1920&quot; data-height=&quot;1080&quot; /&gt;
 星袭游戏截图&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;点击屏幕向前飞行，左右倾斜控制飞行方向。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p class=&quot;lead&quot;&gt;&lt;a href=&quot;https://apps.apple.com/cn/app/id1475584169&quot;&gt;&lt;strong&gt;免费下载&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;lead&quot;&gt;&lt;a href=&quot;https://apps.apple.com/app/id1475584169&quot;&gt;&lt;strong&gt;免费下载&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;游戏规则&quot;&gt;游戏规则&lt;/h3&gt;
 
@@ -22,7 +22,7 @@
     &lt;li&gt;连续拾取数字2，得分会倍数递增。&lt;/li&gt;
     &lt;li&gt;撞到0则游戏结束。&lt;/li&gt;
   &lt;/ul&gt;
-&lt;/blockquote&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><summary type="html">别撞到数字零</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/products/MeteorRaid_0.jpg" /></entry><entry><title type="html">迷魂阵</title><link href="http://localhost:4000/products/games/2019-03-29-SwirlCircles/" rel="alternate" type="text/html" title="迷魂阵" /><published>2019-03-29T00:00:00+08:00</published><updated>2019-03-29T00:00:00+08:00</updated><id>http://localhost:4000/products/games/SwirlCircles</id><content type="html" xml:base="http://localhost:4000/products/games/2019-03-29-SwirlCircles/">&lt;blockquote class=&quot;lead&quot;&gt;
+&lt;/blockquote&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><summary type="html">别撞到数字零</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/products/games/MeteorRaid/img/MeteorRaid_0.jpg" /></entry><entry><title type="html">迷魂阵</title><link href="http://localhost:4000/products/games/2019-03-29-SwirlCircles/" rel="alternate" type="text/html" title="迷魂阵" /><published>2019-03-29T00:00:00+08:00</published><updated>2019-03-29T00:00:00+08:00</updated><id>http://localhost:4000/products/games/SwirlCircles</id><content type="html" xml:base="http://localhost:4000/products/games/2019-03-29-SwirlCircles/">&lt;blockquote class=&quot;lead&quot;&gt;
   &lt;p&gt;在滚动的管道上玩飞碟射击游戏&lt;/p&gt;
 &lt;/blockquote&gt;
 
