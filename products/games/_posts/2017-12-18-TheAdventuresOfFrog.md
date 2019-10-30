@@ -1,6 +1,6 @@
 ---
 title: 青蛙历险记
-image: /assets/img/products/FrogJump_0.png
+image: assets/products/games/TheAdventuresOfFrog/img/FrogJump_0.png
 ---
 
 > 在地球、篮球等晃动的单摆上跳跃
@@ -8,7 +8,7 @@ image: /assets/img/products/FrogJump_0.png
 
 ### 游戏简介
 
-![Screenshot](assets/img/products/FrogJump_1.jpg){:.lead srcset="/assets/img/products/FrogJump_1.jpg 1920w, /assets/img/products/FrogJump_1@0,5x.png 960w, /assets/img/products/FrogJump_1@0,25x.png 480w" data-width="1920" data-height="1080"}
+![Screenshot](assets/products/games/TheAdventuresOfFrog/img/FrogJump_1.jpg){:.lead srcset="/assets/products/games/TheAdventuresOfFrog/img/FrogJump_1.jpg 1920w, /assets/products/games/TheAdventuresOfFrog/img/FrogJump_1@0,5x.png 960w, /assets/products/games/TheAdventuresOfFrog/img/FrogJump_1@0,25x.png 480w" data-width="1920" data-height="1080"}
 青蛙历险记游戏截图
 {:.figure}
 
@@ -32,4 +32,4 @@ image: /assets/img/products/FrogJump_0.png
 
 > 两次入选 App Store “精品推荐”
 
-[download]: https://itunes.apple.com/cn/app/id1325928573?mt=8
+[download]: https://apps.apple.com/app/id1325928573

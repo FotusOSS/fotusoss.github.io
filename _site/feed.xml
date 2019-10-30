@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="cn"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="cn" /><updated>2019-10-25T22:02:25+08:00</updated><id>http://localhost:4000/</id><title type="html">风荷网</title><subtitle>上海风荷信息技术有限公司官方网站。 包含公司的软件、游戏等产品的发布及更新信息。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="cn"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="cn" /><updated>2019-10-30T17:13:14+08:00</updated><id>http://localhost:4000/</id><title type="html">风荷网</title><subtitle>上海风荷信息技术有限公司官方网站。 包含公司的软件、游戏等产品的发布及更新信息。
 </subtitle><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><entry><title type="html">星袭</title><link href="http://localhost:4000/products/games/2019-09-20-MeteorRaid/" rel="alternate" type="text/html" title="星袭" /><published>2019-09-20T00:00:00+08:00</published><updated>2019-09-20T00:00:00+08:00</updated><id>http://localhost:4000/products/games/MeteorRaid</id><content type="html" xml:base="http://localhost:4000/products/games/2019-09-20-MeteorRaid/">&lt;blockquote class=&quot;lead&quot;&gt;
   &lt;p&gt;别撞到数字零&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -50,14 +50,14 @@
 
 &lt;h3 id=&quot;游戏简介&quot;&gt;游戏简介&lt;/h3&gt;
 
-&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;assets/img/products/FrogJump_1.jpg&quot; alt=&quot;Screenshot&quot; class=&quot;lead&quot; srcset=&quot;/assets/img/products/FrogJump_1.jpg 1920w, /assets/img/products/FrogJump_1@0,5x.png 960w, /assets/img/products/FrogJump_1@0,25x.png 480w&quot; data-width=&quot;1920&quot; data-height=&quot;1080&quot; /&gt;
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;assets/products/games/TheAdventuresOfFrog/img/FrogJump_1.jpg&quot; alt=&quot;Screenshot&quot; class=&quot;lead&quot; srcset=&quot;/assets/products/games/TheAdventuresOfFrog/img/FrogJump_1.jpg 1920w, /assets/products/games/TheAdventuresOfFrog/img/FrogJump_1@0,5x.png 960w, /assets/products/games/TheAdventuresOfFrog/img/FrogJump_1@0,25x.png 480w&quot; data-width=&quot;1920&quot; data-height=&quot;1080&quot; /&gt;
 青蛙历险记游戏截图&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;滑动手指就可以控制青蛙的跳跃方向和距离。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p class=&quot;lead&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/cn/app/id1325928573?mt=8&quot;&gt;&lt;strong&gt;免费下载&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;lead&quot;&gt;&lt;a href=&quot;https://apps.apple.com/app/id1325928573&quot;&gt;&lt;strong&gt;免费下载&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;游戏攻略&quot;&gt;游戏攻略&lt;/h3&gt;
 
@@ -77,4 +77,4 @@
 
 &lt;blockquote&gt;
   &lt;p&gt;两次入选 App Store “精品推荐”&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><summary type="html">在地球、篮球等晃动的单摆上跳跃</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/products/FrogJump_0.png" /></entry></feed>
+&lt;/blockquote&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><summary type="html">在地球、篮球等晃动的单摆上跳跃</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/products/games/TheAdventuresOfFrog/img/FrogJump_0.png" /></entry></feed>
