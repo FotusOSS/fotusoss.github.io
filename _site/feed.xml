@@ -1,5 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="cn"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="cn" /><updated>2019-10-30T17:26:16+08:00</updated><id>http://localhost:4000/</id><title type="html">风荷网</title><subtitle>上海风荷信息技术有限公司官方网站。 包含公司的软件、游戏等产品的发布及更新信息。
-</subtitle><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><entry><title type="html">星袭</title><link href="http://localhost:4000/products/games/2019-09-20-MeteorRaid/" rel="alternate" type="text/html" title="星袭" /><published>2019-09-20T00:00:00+08:00</published><updated>2019-09-20T00:00:00+08:00</updated><id>http://localhost:4000/products/games/MeteorRaid</id><content type="html" xml:base="http://localhost:4000/products/games/2019-09-20-MeteorRaid/">&lt;blockquote class=&quot;lead&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="cn"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="cn" /><updated>2020-09-23T23:11:24+08:00</updated><id>http://localhost:4000/</id><title type="html">风荷网</title><subtitle>上海风荷信息技术有限公司官方网站。 包含公司的软件、游戏等产品的发布及更新信息。
+</subtitle><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><entry><title type="html">失恋的方块</title><link href="http://localhost:4000/products/games/2020-03-07-LovelornBlock/" rel="alternate" type="text/html" title="失恋的方块" /><published>2020-03-07T00:00:00+08:00</published><updated>2020-03-07T00:00:00+08:00</updated><id>http://localhost:4000/products/games/LovelornBlock</id><content type="html" xml:base="http://localhost:4000/products/games/2020-03-07-LovelornBlock/">&lt;blockquote class=&quot;lead&quot;&gt;
+  &lt;p&gt;跟着音乐节奏、找准鼓点，你将很快完成关卡。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;游戏简介&quot;&gt;游戏简介&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;跟着音乐节奏左右触屏。
+目标是让中心的小方块命中左侧或右侧的大方块&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p class=&quot;lead&quot;&gt;&lt;a href=&quot;https://apps.apple.com/cn/app/id1501007728&quot;&gt;&lt;strong&gt;免费下载&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;游戏规则&quot;&gt;游戏规则&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;如果与被命中的大方块的颜色和样式相同，则你成功收集一个。&lt;/li&gt;
+  &lt;li&gt;当你收集满9个的时候则成功。&lt;/li&gt;
+  &lt;li&gt;可以开始下一个关卡了。&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><summary type="html">跟着音乐节奏、找准鼓点，你将很快完成关卡。</summary></entry><entry><title type="html">星袭</title><link href="http://localhost:4000/products/games/2019-09-20-MeteorRaid/" rel="alternate" type="text/html" title="星袭" /><published>2019-09-20T00:00:00+08:00</published><updated>2019-09-20T00:00:00+08:00</updated><id>http://localhost:4000/products/games/MeteorRaid</id><content type="html" xml:base="http://localhost:4000/products/games/2019-09-20-MeteorRaid/">&lt;blockquote class=&quot;lead&quot;&gt;
   &lt;p&gt;别撞到数字零&lt;/p&gt;
 &lt;/blockquote&gt;
 
