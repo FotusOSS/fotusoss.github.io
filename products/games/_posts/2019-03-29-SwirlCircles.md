@@ -22,4 +22,4 @@ image: /assets/img/products/SwirlCircles_0.png
 > 
 * 连续命中目标会累计得分
 
-[download]: https://itunes.apple.com/cn/app/id1446833553?mt=8
+[download]: https://itunes.apple.com/app/id1446833553?mt=8

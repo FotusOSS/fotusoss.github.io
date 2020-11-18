@@ -25,4 +25,4 @@ title: 失恋的方块
 
 
 
-[download]: https://apps.apple.com/cn/app/id1501007728
+[download]: https://apps.apple.com/app/id1501007728
