@@ -47,6 +47,8 @@ Chartboost：https://answers.chartboost.com/en-us/articles/200780269
 
 Facebook：https://zh-cn.facebook.com/privacy/explanation
 
+Heyzap: https://www.fyber.com/privacy-policy/
+
 InMobi：https://www.inmobi.com/privacy-policy/
 
 IronSource：http://www.ironsrc.com/wp-content/uploads/2017/01/ironSource-Privacy-Policy.pdf
