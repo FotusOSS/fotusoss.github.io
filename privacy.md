@@ -7,11 +7,11 @@ order: 3
 
 # Privacy
 
-> This privacy policy contains two parts:
+> This privacy policy contains 2 parts:
 >
 > > App’s own privacy policy.
 > >
-> > The privacy policy of third-party component contained in the app.
+> > Request user data deletion.
 
 
 
@@ -25,48 +25,93 @@ Personally identifiable information is not collected.
 
 They will be send to mailbox or server in solving the abnormal problem.
 
-
-
-## Third party component
-
-The app may include the following components: Ads SDK, Social App SDK, Payment SDK, and more.
+The app may include the following components: Ads SDK, Social App SDK, Payment SDK, or analytics SDK.
 
 
 
-**Attached:**
+## Request user data deletion
 
-A list of privacy policies for third-party components that are used or commonly used in the app: 
+When you install and use Fotus mobile applications, we can collect and process some of your data for different legitimate purposes.
 
-AdColony：https://www.adcolony.com/privacy-policy/
+You will find below explanations regarding the reasons why we may collect data.
 
-AdMob By Google：https://policies.google.com/privacy
+ 
 
-Applovin：https://www.applovin.com/privacy/
+**Why is data collected**
 
-Chartboost：https://answers.chartboost.com/en-us/articles/200780269
+Fotus and its third-party partners collect data: 
 
-Facebook：https://zh-cn.facebook.com/privacy/explanation
+- To provide you with the services you asked for
+- To run analytics and understand how users interact with our product and services in order to continuously improve it
 
-Heyzap: https://www.fyber.com/privacy-policy/
+The third-party partners that Fotus will share the data with are: 
 
-InMobi：https://www.inmobi.com/privacy-policy/
+- GameAnalytics
+- Facebook Analytics
+- Voodoo
 
-IronSource：http://www.ironsrc.com/wp-content/uploads/2017/01/ironSource-Privacy-Policy.pdf
+**Data deletion requests**
 
-Maio：https://www.i-mobile.co.jp/privacy.html
+To delete user data collected by Fotus, please reach out to **“provided contact email”.**
 
-Mintegral：https://static.mintegral.net/document/privacy
+If you also want to request the deletion of the data that may have been collected about you or your device by our third-party partners that are acting as independent data controllers, you will find below the contact for each partner and the link to the relevant section of their privacy policies:
 
-MoPub：https://www.mopub.com/legal/privacy/
+- AdColony
+  - email: privacy@adcolony.com
+  - privacy policy: https://www.adcolony.com/privacy-policy/
+- AdMob
+  - email: none, please refer to the privacy policy
+  - privacy policy：https://policies.google.com/privacy
+- Applovin：
+  - email: dataprotection@applovin.com.
+  - privacy policy：https://www.applovin.com/privacy/
+- Chartboost：
+  - email: privacy@chartboost.com
+  - privacy policy：https://answers.chartboost.com/en-us/articles/200780269
+- Facebook Analytics:
+  - email: none, please refer to the privacy policy
+  - privacy policy: https://www.facebook.com/policy.php
 
-myTarget：https://legal.my.com/us/games/privacy/
+- GameAnalytics:
+  - email: privacy@gameanalytics.com
+  - privacy policy: https://gameanalytics.com/privacy/#6-changing-or-deleting-your-information
+- Heyzap:
+  - email: none, please refer to the privacy policy
+  - privacy policy: https://www.fyber.com/privacy-policy/
+- InMobi：
+  - email: privacy@inmobi.com
+  - privacy policy: https://www.inmobi.com/privacy-policy/
 
-nend：https://www.fancs.com/en/privacy
-
-Tapjoy：https://www.tapjoy.com/legal/#privacy-policy
-
-Tencent：https://privacy.qq.com/
-
-Unity：https://unity3d.com/cn/legal/privacy-policy
-
-Vungle：http://vungle.com/privacy/
+- IronSource：
+  - email: legal@ironsrc.com
+  - privacy policy: http://www.ironsrc.com/wp-content/uploads/2019/03/ironSource-Privacy-Policy.pdf
+- Maio：
+  - email: none, please refer to the privacy policy
+  - privacy policy: https://www.i-mobile.co.jp/privacy.html
+- Mintegral：
+  - email: privacy@mintegral.com
+  - privacy policy: https://static.mintegral.net/document/privacy
+- MoPub：
+  - email: none, please refer to the privacy policy
+  - privacy policy: https://www.mopub.com/legal/privacy/
+- myTarget：
+  - email: dpo@corp.my.com
+  - privacy policy: https://legal.my.com/us/games/privacy/
+- nend：
+  - email: none, please refer to the privacy policy
+  - privacy policy: https://www.fancs.com/en/privacy
+- Tapjoy：
+  - email: privacy@tapjoy.com
+  - privacy policy: https://www.tapjoy.com/legal/players/privacy-policy/
+- Tencent：
+  - email: Dataprivacy@tencent.com
+  - privacy policy: https://privacy.qq.com/
+- Unity：
+  - email: DPO@unity3d.com
+  - privacy policy: https://unity3d.com/cn/legal/privacy-policy
+- Voodoo:
+  - *Voodoo does not collect any of your personal data, and only provides an SDK package to retrieve the data collected by the above mentioned partners. You can still contact them to request the deletion of their accesses to the partners’ interfaces.*
+  - email: dpo@voodoo.io
+- Vungle：
+  - email: privacy@vungle.com
+  - privacy policy: http://vungle.com/privacy/
