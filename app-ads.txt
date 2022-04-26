@@ -1,5 +1,6 @@
 google.com, pub-5375813783019400, DIRECT, f08c47fec0942fa0
 
+facebook.com, 320828259998365, RESELLER, c3e20eee3f780d68
 facebook.com, 732144524466048, RESELLER, c3e20eee3f780d68
 
 applovin.com, 4e158afd2bd1df414080dd7af436e1db, DIRECT
