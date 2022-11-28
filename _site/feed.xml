@@ -1,138 +1,166 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="cn"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="cn" /><updated>2021-02-10T21:51:30+08:00</updated><id>http://localhost:4000/</id><title type="html">风荷网</title><subtitle>上海风荷信息技术有限公司官方网站。 包含公司的软件、游戏等产品的发布及更新信息。
-</subtitle><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><entry><title type="html">拆礼品盒</title><link href="http://localhost:4000/products/games/2020-06-17-PhoenixIgnite/" rel="alternate" type="text/html" title="拆礼品盒" /><published>2020-06-17T00:00:00+08:00</published><updated>2020-06-17T00:00:00+08:00</updated><id>http://localhost:4000/products/games/PhoenixIgnite</id><content type="html" xml:base="http://localhost:4000/products/games/2020-06-17-PhoenixIgnite/">&lt;blockquote class=&quot;lead&quot;&gt;
-  &lt;p&gt;打开礼盒，看能否找到一款你不曾吃过的雪糕。&lt;/p&gt;
-&lt;/blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="cn"><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="cn" /><updated>2022-11-28T21:16:50+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">风荷网</title><subtitle>上海风荷信息技术有限公司官方网站。 包含公司的软件、游戏等产品的发布及更新信息。
+</subtitle><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><entry><title type="html">应用市场产品列表</title><link href="http://localhost:4000/products/games/2022-11-28-AllGames/" rel="alternate" type="text/html" title="应用市场产品列表" /><published>2022-11-28T00:00:00+08:00</published><updated>2022-11-28T00:00:00+08:00</updated><id>http://localhost:4000/products/games/AllGames</id><content type="html" xml:base="http://localhost:4000/products/games/2022-11-28-AllGames/"><![CDATA[<blockquote class="lead">
+  <p>打开下述链接将跳转到Apple App Store和Google Paly下载页面。</p>
+</blockquote>
 
-&lt;h3 id=&quot;游戏简介&quot;&gt;游戏简介&lt;/h3&gt;
+<h3 id="ios平台">iOS平台</h3>
 
-&lt;blockquote&gt;
-  &lt;p&gt;打开盒子，解锁雪糕。&lt;/p&gt;
-&lt;/blockquote&gt;
+<p class="lead"><a href="https://apps.apple.com/cn/developer/shanghai-fotus-information-technology-co-ltd/id1276121318"><strong>Apple App Store</strong></a></p>
 
-&lt;p class=&quot;lead&quot;&gt;&lt;a href=&quot;https://apps.apple.com/app/id1508275743&quot;&gt;&lt;strong&gt;免费下载&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+<h3 id="android平台">Android平台</h3>
 
-&lt;h3 id=&quot;游戏规则&quot;&gt;游戏规则&lt;/h3&gt;
+<p class="lead"><a href="https://play.google.com/store/apps/developer?id=%E4%B8%8A%E6%B5%B7%E9%A3%8E%E8%8D%B7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8"><strong>Google Play</strong></a></p>]]></content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="products" /><category term="games" /><summary type="html"><![CDATA[打开下述链接将跳转到Apple App Store和Google Paly下载页面。]]></summary></entry><entry><title type="html">拆礼品盒</title><link href="http://localhost:4000/products/games/2020-06-17-PhoenixIgnite/" rel="alternate" type="text/html" title="拆礼品盒" /><published>2020-06-17T00:00:00+08:00</published><updated>2020-06-17T00:00:00+08:00</updated><id>http://localhost:4000/products/games/PhoenixIgnite</id><content type="html" xml:base="http://localhost:4000/products/games/2020-06-17-PhoenixIgnite/"><![CDATA[<blockquote class="lead">
+  <p>打开礼盒，看能否找到一款你不曾吃过的雪糕。</p>
+</blockquote>
 
-&lt;ul&gt;
-  &lt;li&gt;当两个蝴蝶到达一定高度的时候，触屏，可以打开更多礼盒并通过关卡。&lt;/li&gt;
-  &lt;li&gt;如果错过触屏机会，则游戏失败。&lt;/li&gt;
-  &lt;li&gt;关卡成功时可以解锁雪糕。&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><summary type="html">打开礼盒，看能否找到一款你不曾吃过的雪糕。</summary></entry><entry><title type="html">失恋的方块</title><link href="http://localhost:4000/products/games/2020-03-07-LovelornBlock/" rel="alternate" type="text/html" title="失恋的方块" /><published>2020-03-07T00:00:00+08:00</published><updated>2020-03-07T00:00:00+08:00</updated><id>http://localhost:4000/products/games/LovelornBlock</id><content type="html" xml:base="http://localhost:4000/products/games/2020-03-07-LovelornBlock/">&lt;blockquote class=&quot;lead&quot;&gt;
-  &lt;p&gt;跟着音乐节奏、找准鼓点，你将很快完成关卡。&lt;/p&gt;
-&lt;/blockquote&gt;
+<h3 id="游戏简介">游戏简介</h3>
 
-&lt;h3 id=&quot;游戏简介&quot;&gt;游戏简介&lt;/h3&gt;
+<blockquote>
+  <p>打开盒子，解锁雪糕。</p>
+</blockquote>
 
-&lt;blockquote&gt;
-  &lt;p&gt;跟着音乐节奏左右触屏。
-目标是让中心的小方块命中左侧或右侧的大方块&lt;/p&gt;
-&lt;/blockquote&gt;
+<p class="lead"><a href="https://apps.apple.com/app/id1508275743"><strong>免费下载</strong></a></p>
 
-&lt;p class=&quot;lead&quot;&gt;&lt;a href=&quot;https://apps.apple.com/app/id1501007728&quot;&gt;&lt;strong&gt;免费下载&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+<h3 id="游戏规则">游戏规则</h3>
 
-&lt;h3 id=&quot;游戏规则&quot;&gt;游戏规则&lt;/h3&gt;
+<ul>
+  <li>当两个蝴蝶到达一定高度的时候，触屏，可以打开更多礼盒并通过关卡。</li>
+  <li>如果错过触屏机会，则游戏失败。</li>
+  <li>关卡成功时可以解锁雪糕。</li>
+</ul>]]></content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="products" /><category term="games" /><summary type="html"><![CDATA[打开礼盒，看能否找到一款你不曾吃过的雪糕。]]></summary></entry><entry><title type="html">失恋的方块</title><link href="http://localhost:4000/products/games/2020-03-07-LovelornBlock/" rel="alternate" type="text/html" title="失恋的方块" /><published>2020-03-07T00:00:00+08:00</published><updated>2020-03-07T00:00:00+08:00</updated><id>http://localhost:4000/products/games/LovelornBlock</id><content type="html" xml:base="http://localhost:4000/products/games/2020-03-07-LovelornBlock/"><![CDATA[<blockquote class="lead">
+  <p>跟着音乐节奏、找准鼓点，你将很快完成关卡。</p>
+</blockquote>
 
-&lt;ul&gt;
-  &lt;li&gt;如果与被命中的大方块的颜色和样式相同，则你成功收集一个。&lt;/li&gt;
-  &lt;li&gt;当你收集满9个的时候则成功。&lt;/li&gt;
-  &lt;li&gt;可以开始下一个关卡了。&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><summary type="html">跟着音乐节奏、找准鼓点，你将很快完成关卡。</summary></entry><entry><title type="html">点亮记忆</title><link href="http://localhost:4000/products/games/2019-12-23-MementoCollector/" rel="alternate" type="text/html" title="点亮记忆" /><published>2019-12-23T00:00:00+08:00</published><updated>2019-12-23T00:00:00+08:00</updated><id>http://localhost:4000/products/games/MementoCollector</id><content type="html" xml:base="http://localhost:4000/products/games/2019-12-23-MementoCollector/">&lt;blockquote class=&quot;lead&quot;&gt;
-  &lt;p&gt;找出错误图片或记住所有图片的顺序和位置来完成拼图。&lt;/p&gt;
-&lt;/blockquote&gt;
+<h3 id="游戏简介">游戏简介</h3>
 
-&lt;h3 id=&quot;游戏简介&quot;&gt;游戏简介&lt;/h3&gt;
+<blockquote>
+  <p>跟着音乐节奏左右触屏。
+目标是让中心的小方块命中左侧或右侧的大方块</p>
+</blockquote>
 
-&lt;blockquote&gt;
-  &lt;p&gt;通过记忆局部特征完成拼图&lt;/p&gt;
-&lt;/blockquote&gt;
+<p class="lead"><a href="https://apps.apple.com/app/id1501007728"><strong>免费下载</strong></a></p>
 
-&lt;p class=&quot;lead&quot;&gt;&lt;a href=&quot;https://apps.apple.com/app/id1491641337&quot;&gt;&lt;strong&gt;免费下载&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+<h3 id="游戏规则">游戏规则</h3>
 
-&lt;h3 id=&quot;游戏规则&quot;&gt;游戏规则&lt;/h3&gt;
+<ul>
+  <li>如果与被命中的大方块的颜色和样式相同，则你成功收集一个。</li>
+  <li>当你收集满9个的时候则成功。</li>
+  <li>可以开始下一个关卡了。</li>
+</ul>]]></content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="products" /><category term="games" /><summary type="html"><![CDATA[跟着音乐节奏、找准鼓点，你将很快完成关卡。]]></summary></entry><entry><title type="html">点亮记忆</title><link href="http://localhost:4000/products/games/2019-12-23-MementoCollector/" rel="alternate" type="text/html" title="点亮记忆" /><published>2019-12-23T00:00:00+08:00</published><updated>2019-12-23T00:00:00+08:00</updated><id>http://localhost:4000/products/games/MementoCollector</id><content type="html" xml:base="http://localhost:4000/products/games/2019-12-23-MementoCollector/"><![CDATA[<blockquote class="lead">
+  <p>找出错误图片或记住所有图片的顺序和位置来完成拼图。</p>
+</blockquote>
 
-&lt;ul&gt;
-  &lt;li&gt;两种游戏模式：
-    &lt;ul&gt;
-      &lt;li&gt;记忆拼图模式：你需要记住每个图片与数字的对应关系，当展示数字的时候，找到对应的图片，全部找齐就拼图成功&lt;/li&gt;
-      &lt;li&gt;找茬模式：在一组图片中，找出不正确的图像，全部找出后，剩余的图像自动拼图成功&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><summary type="html">找出错误图片或记住所有图片的顺序和位置来完成拼图。</summary></entry><entry><title type="html">星袭</title><link href="http://localhost:4000/products/games/2019-09-20-MeteorRaid/" rel="alternate" type="text/html" title="星袭" /><published>2019-09-20T00:00:00+08:00</published><updated>2019-09-20T00:00:00+08:00</updated><id>http://localhost:4000/products/games/MeteorRaid</id><content type="html" xml:base="http://localhost:4000/products/games/2019-09-20-MeteorRaid/">&lt;blockquote class=&quot;lead&quot;&gt;
-  &lt;p&gt;别撞到数字零&lt;/p&gt;
-&lt;/blockquote&gt;
+<h3 id="游戏简介">游戏简介</h3>
 
-&lt;h3 id=&quot;游戏简介&quot;&gt;游戏简介&lt;/h3&gt;
+<blockquote>
+  <p>通过记忆局部特征完成拼图</p>
+</blockquote>
 
-&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/products/games/MeteorRaid/img/MeteorRaid_1.jpg&quot; alt=&quot;Screenshot&quot; class=&quot;lead&quot; srcset=&quot;/assets/products/games/MeteorRaid/img/MeteorRaid_1.jpg 1920w, /assets/products/games/MeteorRaid/img/MeteorRaid_1@0,5x.png 960w, //assets/products/games/MeteorRaid/img/MeteorRaid_1@0,25x.png 480w&quot; data-width=&quot;1920&quot; data-height=&quot;1080&quot; /&gt;
-星袭游戏截图&lt;/p&gt;
+<p class="lead"><a href="https://apps.apple.com/app/id1491641337"><strong>免费下载</strong></a></p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;点击屏幕向前飞行，左右倾斜控制飞行方向。&lt;/p&gt;
-&lt;/blockquote&gt;
+<h3 id="游戏规则">游戏规则</h3>
 
-&lt;p class=&quot;lead&quot;&gt;&lt;a href=&quot;https://apps.apple.com/app/id1475584169&quot;&gt;&lt;strong&gt;免费下载&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+<ul>
+  <li>两种游戏模式：
+    <ul>
+      <li>记忆拼图模式：你需要记住每个图片与数字的对应关系，当展示数字的时候，找到对应的图片，全部找齐就拼图成功</li>
+      <li>找茬模式：在一组图片中，找出不正确的图像，全部找出后，剩余的图像自动拼图成功</li>
+    </ul>
+  </li>
+</ul>]]></content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="products" /><category term="games" /><summary type="html"><![CDATA[找出错误图片或记住所有图片的顺序和位置来完成拼图。]]></summary></entry><entry><title type="html">星袭</title><link href="http://localhost:4000/products/games/2019-09-20-MeteorRaid/" rel="alternate" type="text/html" title="星袭" /><published>2019-09-20T00:00:00+08:00</published><updated>2019-09-20T00:00:00+08:00</updated><id>http://localhost:4000/products/games/MeteorRaid</id><content type="html" xml:base="http://localhost:4000/products/games/2019-09-20-MeteorRaid/"><![CDATA[<blockquote class="lead">
+  <p>别撞到数字零</p>
+</blockquote>
 
-&lt;h3 id=&quot;游戏规则&quot;&gt;游戏规则&lt;/h3&gt;
+<h3 id="游戏简介">游戏简介</h3>
 
-&lt;blockquote&gt;
+<p class="figure">
+  <hy-img root-margin="512px"  src="/assets/products/games/MeteorRaid/img/MeteorRaid_1.jpg" alt="Screenshot" class="lead" srcset="/assets/products/games/MeteorRaid/img/MeteorRaid_1.jpg 1920w, /assets/products/games/MeteorRaid/img/MeteorRaid_1@0,5x.png 960w, //assets/products/games/MeteorRaid/img/MeteorRaid_1@0,25x.png 480w" data-width="1920" data-height="1080" >
+    <noscript><img data-ignore  src="/assets/products/games/MeteorRaid/img/MeteorRaid_1.jpg" alt="Screenshot" class="lead" srcset="/assets/products/games/MeteorRaid/img/MeteorRaid_1.jpg 1920w, /assets/products/games/MeteorRaid/img/MeteorRaid_1@0,5x.png 960w, //assets/products/games/MeteorRaid/img/MeteorRaid_1@0,25x.png 480w" data-width="1920" data-height="1080" /></noscript>
+    <span class="loading" slot="loading" hidden>
+      <span class="icon-cog"></span>
+    </span>
+  </hy-img>
+星袭游戏截图</p>
 
-  &lt;ul&gt;
-    &lt;li&gt;连续拾取数字2，得分会倍数递增。&lt;/li&gt;
-    &lt;li&gt;撞到0则游戏结束。&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><summary type="html">别撞到数字零</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/products/games/MeteorRaid/img/MeteorRaid_0.jpg" /></entry><entry><title type="html">迷魂阵</title><link href="http://localhost:4000/products/games/2019-03-29-SwirlCircles/" rel="alternate" type="text/html" title="迷魂阵" /><published>2019-03-29T00:00:00+08:00</published><updated>2019-03-29T00:00:00+08:00</updated><id>http://localhost:4000/products/games/SwirlCircles</id><content type="html" xml:base="http://localhost:4000/products/games/2019-03-29-SwirlCircles/">&lt;blockquote class=&quot;lead&quot;&gt;
-  &lt;p&gt;在滚动的管道上玩飞碟射击游戏&lt;/p&gt;
-&lt;/blockquote&gt;
+<blockquote>
+  <p>点击屏幕向前飞行，左右倾斜控制飞行方向。</p>
+</blockquote>
 
-&lt;h3 id=&quot;游戏简介&quot;&gt;游戏简介&lt;/h3&gt;
+<p class="lead"><a href="https://apps.apple.com/app/id1475584169"><strong>免费下载</strong></a></p>
 
-&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;assets/img/products/SwirlCircles_1.jpg&quot; alt=&quot;Screenshot&quot; class=&quot;lead&quot; srcset=&quot;/assets/img/products/SwirlCircles_1.jpg 300w&quot; data-width=&quot;300&quot; data-height=&quot;533&quot; /&gt;
-迷魂阵游戏截图&lt;/p&gt;
+<h3 id="游戏规则">游戏规则</h3>
 
-&lt;blockquote&gt;
-  &lt;p&gt;旋转动态目标射击游戏&lt;/p&gt;
-&lt;/blockquote&gt;
+<blockquote>
 
-&lt;p class=&quot;lead&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1446833553?mt=8&quot;&gt;&lt;strong&gt;免费下载&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+  <ul>
+    <li>连续拾取数字2，得分会倍数递增。</li>
+    <li>撞到0则游戏结束。</li>
+  </ul>
+</blockquote>]]></content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="products" /><category term="games" /><summary type="html"><![CDATA[别撞到数字零]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/products/games/MeteorRaid/img/MeteorRaid_0.jpg" /><media:content medium="image" url="http://localhost:4000/assets/products/games/MeteorRaid/img/MeteorRaid_0.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">迷魂阵</title><link href="http://localhost:4000/products/games/2019-03-29-SwirlCircles/" rel="alternate" type="text/html" title="迷魂阵" /><published>2019-03-29T00:00:00+08:00</published><updated>2019-03-29T00:00:00+08:00</updated><id>http://localhost:4000/products/games/SwirlCircles</id><content type="html" xml:base="http://localhost:4000/products/games/2019-03-29-SwirlCircles/"><![CDATA[<blockquote class="lead">
+  <p>在滚动的管道上玩飞碟射击游戏</p>
+</blockquote>
 
-&lt;h3 id=&quot;游戏攻略&quot;&gt;游戏攻略&lt;/h3&gt;
+<h3 id="游戏简介">游戏简介</h3>
 
-&lt;blockquote&gt;
+<p class="figure">
+  <hy-img root-margin="512px"  src="assets/img/products/SwirlCircles_1.jpg" alt="Screenshot" class="lead" srcset="/assets/img/products/SwirlCircles_1.jpg 300w" data-width="300" data-height="533" >
+    <noscript><img data-ignore  src="assets/img/products/SwirlCircles_1.jpg" alt="Screenshot" class="lead" srcset="/assets/img/products/SwirlCircles_1.jpg 300w" data-width="300" data-height="533" /></noscript>
+    <span class="loading" slot="loading" hidden>
+      <span class="icon-cog"></span>
+    </span>
+  </hy-img>
+迷魂阵游戏截图</p>
 
-  &lt;ul&gt;
-    &lt;li&gt;连续命中目标会累计得分&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><summary type="html">在滚动的管道上玩飞碟射击游戏</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/products/SwirlCircles_0.png" /></entry><entry><title type="html">青蛙历险记</title><link href="http://localhost:4000/products/games/2017-12-18-TheAdventuresOfFrog/" rel="alternate" type="text/html" title="青蛙历险记" /><published>2017-12-18T00:00:00+08:00</published><updated>2017-12-18T00:00:00+08:00</updated><id>http://localhost:4000/products/games/TheAdventuresOfFrog</id><content type="html" xml:base="http://localhost:4000/products/games/2017-12-18-TheAdventuresOfFrog/">&lt;blockquote class=&quot;lead&quot;&gt;
-  &lt;p&gt;在地球、篮球等晃动的单摆上跳跃&lt;/p&gt;
-&lt;/blockquote&gt;
+<blockquote>
+  <p>旋转动态目标射击游戏</p>
+</blockquote>
 
-&lt;h3 id=&quot;游戏简介&quot;&gt;游戏简介&lt;/h3&gt;
+<p class="lead"><a href="https://itunes.apple.com/app/id1446833553?mt=8"><strong>免费下载</strong></a></p>
 
-&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;assets/products/games/TheAdventuresOfFrog/img/FrogJump_1.jpg&quot; alt=&quot;Screenshot&quot; class=&quot;lead&quot; srcset=&quot;/assets/products/games/TheAdventuresOfFrog/img/FrogJump_1.jpg 1920w, /assets/products/games/TheAdventuresOfFrog/img/FrogJump_1@0,5x.png 960w, /assets/products/games/TheAdventuresOfFrog/img/FrogJump_1@0,25x.png 480w&quot; data-width=&quot;1920&quot; data-height=&quot;1080&quot; /&gt;
-青蛙历险记游戏截图&lt;/p&gt;
+<h3 id="游戏攻略">游戏攻略</h3>
 
-&lt;blockquote&gt;
-  &lt;p&gt;滑动手指就可以控制青蛙的跳跃方向和距离。&lt;/p&gt;
-&lt;/blockquote&gt;
+<blockquote>
 
-&lt;p class=&quot;lead&quot;&gt;&lt;a href=&quot;https://apps.apple.com/app/id1325928573&quot;&gt;&lt;strong&gt;免费下载&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+  <ul>
+    <li>连续命中目标会累计得分</li>
+  </ul>
+</blockquote>]]></content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="products" /><category term="games" /><summary type="html"><![CDATA[在滚动的管道上玩飞碟射击游戏]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/products/SwirlCircles_0.png" /><media:content medium="image" url="http://localhost:4000/assets/img/products/SwirlCircles_0.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">青蛙历险记</title><link href="http://localhost:4000/products/games/2017-12-18-TheAdventuresOfFrog/" rel="alternate" type="text/html" title="青蛙历险记" /><published>2017-12-18T00:00:00+08:00</published><updated>2017-12-18T00:00:00+08:00</updated><id>http://localhost:4000/products/games/TheAdventuresOfFrog</id><content type="html" xml:base="http://localhost:4000/products/games/2017-12-18-TheAdventuresOfFrog/"><![CDATA[<blockquote class="lead">
+  <p>在地球、篮球等晃动的单摆上跳跃</p>
+</blockquote>
 
-&lt;h3 id=&quot;游戏攻略&quot;&gt;游戏攻略&lt;/h3&gt;
+<h3 id="游戏简介">游戏简介</h3>
 
-&lt;blockquote&gt;
+<p class="figure">
+  <hy-img root-margin="512px"  src="assets/products/games/TheAdventuresOfFrog/img/FrogJump_1.jpg" alt="Screenshot" class="lead" srcset="/assets/products/games/TheAdventuresOfFrog/img/FrogJump_1.jpg 1920w, /assets/products/games/TheAdventuresOfFrog/img/FrogJump_1@0,5x.png 960w, /assets/products/games/TheAdventuresOfFrog/img/FrogJump_1@0,25x.png 480w" data-width="1920" data-height="1080" >
+    <noscript><img data-ignore  src="assets/products/games/TheAdventuresOfFrog/img/FrogJump_1.jpg" alt="Screenshot" class="lead" srcset="/assets/products/games/TheAdventuresOfFrog/img/FrogJump_1.jpg 1920w, /assets/products/games/TheAdventuresOfFrog/img/FrogJump_1@0,5x.png 960w, /assets/products/games/TheAdventuresOfFrog/img/FrogJump_1@0,25x.png 480w" data-width="1920" data-height="1080" /></noscript>
+    <span class="loading" slot="loading" hidden>
+      <span class="icon-cog"></span>
+    </span>
+  </hy-img>
+青蛙历险记游戏截图</p>
 
-  &lt;ul&gt;
-    &lt;li&gt;跳上篮球，空心命中，奖励20分，如果碰到篮筐，根据秒表计时得分递减&lt;/li&gt;
-    &lt;li&gt;跳上大象星球，等待浇水3秒钟，奖励15分&lt;/li&gt;
-    &lt;li&gt;跳上小黄猪，滑落到红心位置跳出，奖励20分&lt;/li&gt;
-    &lt;li&gt;跳上灯笼，在灯笼运动方向改变前跳出，奖励10分&lt;/li&gt;
-    &lt;li&gt;注意：跳上暗黑星球，会扣分，至于会被扣多少，你可以跳上试试&lt;/li&gt;
-    &lt;li&gt;还有更多好玩的规则等你……&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
+<blockquote>
+  <p>滑动手指就可以控制青蛙的跳跃方向和距离。</p>
+</blockquote>
 
-&lt;h3 id=&quot;荣誉&quot;&gt;荣誉&lt;/h3&gt;
+<p class="lead"><a href="https://apps.apple.com/app/id1325928573"><strong>免费下载</strong></a></p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;两次入选 App Store “精品推荐”&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><summary type="html">在地球、篮球等晃动的单摆上跳跃</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/products/games/TheAdventuresOfFrog/img/FrogJump_0.png" /></entry></feed>
+<h3 id="游戏攻略">游戏攻略</h3>
+
+<blockquote>
+
+  <ul>
+    <li>跳上篮球，空心命中，奖励20分，如果碰到篮筐，根据秒表计时得分递减</li>
+    <li>跳上大象星球，等待浇水3秒钟，奖励15分</li>
+    <li>跳上小黄猪，滑落到红心位置跳出，奖励20分</li>
+    <li>跳上灯笼，在灯笼运动方向改变前跳出，奖励10分</li>
+    <li>注意：跳上暗黑星球，会扣分，至于会被扣多少，你可以跳上试试</li>
+    <li>还有更多好玩的规则等你……</li>
+  </ul>
+</blockquote>
+
+<h3 id="荣誉">荣誉</h3>
+
+<blockquote>
+  <p>两次入选 App Store “精品推荐”</p>
+</blockquote>]]></content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="products" /><category term="games" /><summary type="html"><![CDATA[在地球、篮球等晃动的单摆上跳跃]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/products/games/TheAdventuresOfFrog/img/FrogJump_0.png" /><media:content medium="image" url="http://localhost:4000/assets/products/games/TheAdventuresOfFrog/img/FrogJump_0.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
